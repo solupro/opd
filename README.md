@@ -1,7 +1,7 @@
 opd
 ===
 
-PHP Opcode dumper like [vld](http://pecl.php.net/package/vld) bug base on based on PHP embed sapi
+PHP Opcode dumper like [vld](http://pecl.php.net/package/vld) but base on based on PHP embed sapi
 
 ##Install
 Build PHP with Emebed SAP
