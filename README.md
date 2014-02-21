@@ -36,3 +36,7 @@ opnum	line	opcode	op1	op2	result
 3	7	DO_FCALL	"foo"		
 4	8	RETURN	1
 ```
+
+##Blog (in Chinese)
+
+- <http://my.oschina.net/s01u/blog/200707>
