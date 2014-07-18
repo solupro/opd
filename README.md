@@ -39,4 +39,4 @@ opnum	line	opcode	op1	op2	result
 
 ##Blog (in Chinese)
 
-- <http://my.oschina.net/s01u/blog/200707>
+- <http://solupro.org/php-opd-another-vld/>
